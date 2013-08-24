@@ -1,0 +1,25 @@
+
+int bitAnd(int, int);
+int test_bitAnd(int, int);
+int bitOr(int, int);
+int test_bitOr(int, int);
+int isTmax(int);
+int test_isTmax(int);
+int isZero(int);
+int test_isZero(int);
+int fitsBits(int, int);
+int test_fitsBits(int, int);
+int getByte(int, int);
+int test_getByte(int, int);
+int isNegative(int);
+int test_isNegative(int);
+int addOK(int, int);
+int test_addOK(int, int);
+int isGreater(int, int);
+int test_isGreater(int, int);
+int replaceByte(int, int, int);
+int test_replaceByte(int, int, int);
+int rotateLeft(int, int);
+int test_rotateLeft(int, int);
+int isNonZero(int);
+int test_isNonZero(int);
